@@ -3,7 +3,7 @@
         {
             "category":"Quiz",
             "type":"multiple",
-            "difficulty":"hard",
+            "difficulty":"medium",
             "question":"Nhà bạn ở đâu",
             "correct_answer":"Nhà tôi ở Vũng Tàu",
             "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Tôi rất khỏe"]
@@ -11,7 +11,7 @@
         {
             "category":"Quiz",
             "type":"multiple",
-            "difficulty":"hard",
+            "difficulty":"medium",
             "question":"Bạn khỏe không?",
             "correct_answer":"Tôi rất khỏe",
             "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Nhà tôi ở Vũng Tàu"]
@@ -19,7 +19,7 @@
         {
             "category":"Quiz",
             "type":"multiple",
-            "difficulty":"hard",
+            "difficulty":"medium",
             "question":"Nhà bạn ở đâu",
             "correct_answer":"Nhà tôi ở Vũng Tàu",
             "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Tôi rất khỏe"]
