@@ -4,201 +4,81 @@
             "category":"Quiz",
             "type":"multiple",
             "difficulty":"medium",
-            "question":"tèn ten ten",
-            "correct_answer":"True",
-            "incorrect_answers":["False"]
+            "question":"Salut",
+            "correct_answer":"Xin chào",
+            "incorrect_answers":["Tạm biệt","Cảm ơn","Xin lỗi"]
         },
         {
             "category":"Quiz",
             "type":"multiple",
             "difficulty":"medium",
-            "question":"Nhà ___ ở đâu",
-            "correct_answer":"bạn",
-            "incorrect_answers":["khỉ","mèo","chó"]
+            "question":"Oui",
+            "correct_answer":"Được",
+            "incorrect_answers":["Không","Không có gì","Xin lỗi"]
         },
         {
             "category":"Quiz",
             "type":"multiple",
             "difficulty":"medium",
-            "question":"Bạn ___ không?",
-            "correct_answer":"khỏe",
-            "incorrect_answers":["gì","thế","nào"]
+            "question":"Génial",
+            "correct_answer":"Tuyệt vời",
+            "incorrect_answers":["Xấu hổ","Xúc động","Không biết"]
         },
         {
             "category":"Quiz",
             "type":"multiple",
             "difficulty":"medium",
-            "question":"Nhà ___ ở đâu",
-            "correct_answer":"bạn",
-            "incorrect_answers":["khỉ","mèo","chó"]
+            "question":"Ça va, _____ ?",
+            "correct_answer":"et toi",
+            "incorrect_answers":["m'appelle","de rien","au revoir"]
         },
         {
             "category":"Quiz",
             "type":"multiple",
             "difficulty":"medium",
-            "question":"Bạn ___ không?",
-            "correct_answer":"khỏe",
-            "incorrect_answers":["gì","thế","nào"]
+            "question":"_____ vous t'appelles ?",
+            "correct_answer":"Comment",
+            "incorrect_answers":["Quoi","Où","Pourquoi"]
         },
         {
             "category":"Quiz",
             "type":"multiple",
             "difficulty":"medium",
-            "question":"Nhà ___ ở đâu",
-            "correct_answer":"bạn",
-            "incorrect_answers":["khỉ","mèo","chó"]
+            "question":"Je ____ un peu français?",
+            "correct_answer":"Parle",
+            "incorrect_answers":["Avez","Merde","Merci"]
         },
         {
             "category":"Quiz",
             "type":"multiple",
             "difficulty":"medium",
-            "question":"Bạn ___ không?",
-            "correct_answer":"khỏe",
-            "incorrect_answers":["gì","thế","nào"]
+            "question":"____ avez du Wi-Fi ?",
+            "correct_answer":"Vous",
+            "incorrect_answers":["Je","Pas","Bonjour"]
         },
         {
             "category":"Quiz",
             "type":"multiple",
             "difficulty":"medium",
-            "question":"Nhà ___ ở đâu",
-            "correct_answer":"bạn",
-            "incorrect_answers":["khỉ","mèo","chó"]
+            "question":"Les collègues embrassent généralement les joues de leurs collègues en France",
+            "correct_answer":"Sai",
+            "incorrect_answers":["Đúng"]
         },
         {
             "category":"Quiz",
             "type":"multiple",
             "difficulty":"medium",
-            "question":"Bạn ___ không?",
-            "correct_answer":"khỏe",
-            "incorrect_answers":["gì","thế","nào"]
+            "question":"Le drapeau français est bleu, blanc et rouge",
+            "correct_answer":"Đúng",
+            "incorrect_answers":["Sai"]
         },
         {
             "category":"Quiz",
             "type":"multiple",
             "difficulty":"medium",
-            "question":"Nhà ___ ở đâu",
-            "correct_answer":"bạn",
-            "incorrect_answers":["khỉ","mèo","chó"]
-        },
-        {
-            "category":"Quiz",
-            "type":"multiple",
-            "difficulty":"medium",
-            "question":"Bạn ___ không?",
-            "correct_answer":"khỏe",
-            "incorrect_answers":["gì","thế","nào"]
-        },
-        {
-            "category":"Quiz",
-            "type":"multiple",
-            "difficulty":"medium",
-            "question":"Nhà ___ ở đâu",
-            "correct_answer":"bạn",
-            "incorrect_answers":["khỉ","mèo","chó"]
-        },
-        {
-            "category":"Quiz",
-            "type":"multiple",
-            "difficulty":"medium",
-            "question":"Bạn ___ không?",
-            "correct_answer":"khỏe",
-            "incorrect_answers":["gì","thế","nào"]
-        },
-        {
-            "category":"Quiz",
-            "type":"multiple",
-            "difficulty":"hard",
-            "question":"Nhà bạn ở đâu",
-            "correct_answer":"Nhà tôi ở Vũng Tàu",
-            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Tôi rất khỏe"]
-        },
-        {
-            "category":"Quiz",
-            "type":"multiple",
-            "difficulty":"hard",
-            "question":"Bạn khỏe không?",
-            "correct_answer":"Tôi rất khỏe",
-            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Nhà tôi ở Vũng Tàu"]
-        },
-        {
-            "category":"Quiz",
-            "type":"multiple",
-            "difficulty":"hard",
-            "question":"Nhà bạn ở đâu",
-            "correct_answer":"Nhà tôi ở Vũng Tàu",
-            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Tôi rất khỏe"]
-        },
-        {
-            "category":"Quiz",
-            "type":"multiple",
-            "difficulty":"hard",
-            "question":"Bạn khỏe không?",
-            "correct_answer":"Tôi rất khỏe",
-            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Nhà tôi ở Vũng Tàu"]
-        },
-        {
-            "category":"Quiz",
-            "type":"multiple",
-            "difficulty":"hard",
-            "question":"Nhà bạn ở đâu",
-            "correct_answer":"Nhà tôi ở Vũng Tàu",
-            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Tôi rất khỏe"]
-        },
-        {
-            "category":"Quiz",
-            "type":"multiple",
-            "difficulty":"hard",
-            "question":"Bạn khỏe không?",
-            "correct_answer":"Tôi rất khỏe",
-            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Nhà tôi ở Vũng Tàu"]
-        },
-        {
-            "category":"Quiz",
-            "type":"multiple",
-            "difficulty":"hard",
-            "question":"Nhà bạn ở đâu",
-            "correct_answer":"Nhà tôi ở Vũng Tàu",
-            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Tôi rất khỏe"]
-        },
-        {
-            "category":"Quiz",
-            "type":"multiple",
-            "difficulty":"hard",
-            "question":"Bạn khỏe không?",
-            "correct_answer":"Tôi rất khỏe",
-            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Nhà tôi ở Vũng Tàu"]
-        },
-        {
-            "category":"Quiz",
-            "type":"multiple",
-            "difficulty":"hard",
-            "question":"Nhà bạn ở đâu",
-            "correct_answer":"Nhà tôi ở Vũng Tàu",
-            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Tôi rất khỏe"]
-        },
-        {
-            "category":"Quiz",
-            "type":"multiple",
-            "difficulty":"hard",
-            "question":"Bạn khỏe không?",
-            "correct_answer":"Tôi rất khỏe",
-            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Nhà tôi ở Vũng Tàu"]
-        },
-        {
-            "category":"Quiz",
-            "type":"multiple",
-            "difficulty":"hard",
-            "question":"Nhà bạn ở đâu",
-            "correct_answer":"Nhà tôi ở Vũng Tàu",
-            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Tôi rất khỏe"]
-        },
-        {
-            "category":"Quiz",
-            "type":"multiple",
-            "difficulty":"hard",
-            "question":"Bạn khỏe không?",
-            "correct_answer":"Tôi rất khỏe",
-            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Nhà tôi ở Vũng Tàu"]
+            "question":"Les élèves français ont l'école toute la journée du lundi au vendredi",
+            "correct_answer":"Sai",
+            "incorrect_answers":["Đúng"]
         }
     ]
 }
