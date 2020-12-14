@@ -4,6 +4,22 @@
             "category":"Quiz",
             "type":"multiple",
             "difficulty":"medium",
+            "question":"1",
+            "correct_answer":"Xin chào",
+            "incorrect_answers":["Tạm biệt","Cảm ơn","Xin lỗi"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"medium",
+            "question":"2",
+            "correct_answer":"Xin chào",
+            "incorrect_answers":["Tạm biệt","Cảm ơn","Xin lỗi"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"medium",
             "question":"Salut",
             "correct_answer":"Xin chào",
             "incorrect_answers":["Tạm biệt","Cảm ơn","Xin lỗi"]
