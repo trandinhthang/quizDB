@@ -1,0 +1,11 @@
+{
+    "response_code":0,
+    "results":[{
+        "category":"General Knowledge",
+        "type":"multiple",
+        "difficulty":"hard",
+        "question":"Which of the following is not another name for the eggplant?",
+        "correct_answer":"Potimarron",
+        "incorrect_answers":["Brinjal","Guinea Squash","Melongene"]
+    }]
+}
