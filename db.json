@@ -1,21 +1,132 @@
 {
-
     "results":[
         {
-            "category":"General Knowledge",
+            "category":"Quiz",
             "type":"multiple",
             "difficulty":"hard",
-            "question":"Which of the following is not another name for the eggplant?",
-            "correct_answer":"Potimarron",
-            "incorrect_answers":["Brinjal","Guinea Squash","Melongene"]
+            "question":"Nhà bạn ở đâu",
+            "correct_answer":"Nhà tôi ở Vũng Tàu",
+            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Tôi rất khỏe"]
         },
         {
-            "category":"General Knowledge",
+            "category":"Quiz",
             "type":"multiple",
-            "difficulty":"medium",
-            "question":"Which of the following is not another name for the eggplant?",
-            "correct_answer":"Potimarron",
-            "incorrect_answers":["Brinjal","Guinea Squash","Melongene"]
+            "difficulty":"hard",
+            "question":"Bạn khỏe không?",
+            "correct_answer":"Tôi rất khỏe",
+            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Nhà tôi ở Vũng Tàu"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Nhà bạn ở đâu",
+            "correct_answer":"Nhà tôi ở Vũng Tàu",
+            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Tôi rất khỏe"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Bạn khỏe không?",
+            "correct_answer":"Tôi rất khỏe",
+            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Nhà tôi ở Vũng Tàu"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Nhà bạn ở đâu",
+            "correct_answer":"Nhà tôi ở Vũng Tàu",
+            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Tôi rất khỏe"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Bạn khỏe không?",
+            "correct_answer":"Tôi rất khỏe",
+            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Nhà tôi ở Vũng Tàu"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Nhà bạn ở đâu",
+            "correct_answer":"Nhà tôi ở Vũng Tàu",
+            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Tôi rất khỏe"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Bạn khỏe không?",
+            "correct_answer":"Tôi rất khỏe",
+            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Nhà tôi ở Vũng Tàu"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Nhà bạn ở đâu",
+            "correct_answer":"Nhà tôi ở Vũng Tàu",
+            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Tôi rất khỏe"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Bạn khỏe không?",
+            "correct_answer":"Tôi rất khỏe",
+            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Nhà tôi ở Vũng Tàu"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Nhà bạn ở đâu",
+            "correct_answer":"Nhà tôi ở Vũng Tàu",
+            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Tôi rất khỏe"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Bạn khỏe không?",
+            "correct_answer":"Tôi rất khỏe",
+            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Nhà tôi ở Vũng Tàu"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Nhà bạn ở đâu",
+            "correct_answer":"Nhà tôi ở Vũng Tàu",
+            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Tôi rất khỏe"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Bạn khỏe không?",
+            "correct_answer":"Tôi rất khỏe",
+            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Nhà tôi ở Vũng Tàu"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Nhà bạn ở đâu",
+            "correct_answer":"Nhà tôi ở Vũng Tàu",
+            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Tôi rất khỏe"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Bạn khỏe không?",
+            "correct_answer":"Tôi rất khỏe",
+            "incorrect_answers":["Tôi tên Thắng","Hôm nay trời đẹp quá","Nhà tôi ở Vũng Tàu"]
         }
     ]
 }
