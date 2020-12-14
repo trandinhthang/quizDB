@@ -4,6 +4,14 @@
             "category":"Quiz",
             "type":"multiple",
             "difficulty":"medium",
+            "question":"tèn ten ten",
+            "correct_answer":"True",
+            "incorrect_answers":["False"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"medium",
             "question":"Nhà ___ ở đâu",
             "correct_answer":"bạn",
             "incorrect_answers":["khỉ","mèo","chó"]
