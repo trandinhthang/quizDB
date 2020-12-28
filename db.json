@@ -5,8 +5,8 @@
             "type":"multiple",
             "difficulty":"medium",
             "question":"Salut",
-            "correct_answer":["Xin chào","Xin lỗi"],
-            "incorrect_answers":["Tạm biệt","Cảm ơn"]
+            "correct_answer":"Xin chào",
+            "incorrect_answers":["Tạm biệt","Cảm ơn","Xin lỗi"]
         },
         {
             "category":"Quiz",
