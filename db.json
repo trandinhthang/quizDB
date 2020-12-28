@@ -78,7 +78,7 @@
             "difficulty":"medium",
             "question":"Pourquoi ___ ?",
             "correct_answer":"Pas",
-            "incorrect_answers":["Je","Pas","Bonjour"]
+            "incorrect_answers":["Je","Commnet","Bonjour"]
         },
         {
             "category":"Quiz",
