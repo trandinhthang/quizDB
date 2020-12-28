@@ -60,25 +60,105 @@
             "category":"Quiz",
             "type":"multiple",
             "difficulty":"medium",
-            "question":"Les collègues embrassent généralement les joues de leurs collègues en France",
-            "correct_answer":"Sai",
-            "incorrect_answers":["Đúng"]
+            "question":"J'ai faim",
+            "correct_answer":"Tôi đói",
+            "incorrect_answers":["Tôi khát","Tôi mệt","Tôi thích"]
         },
         {
             "category":"Quiz",
             "type":"multiple",
             "difficulty":"medium",
-            "question":"Le drapeau français est bleu, blanc et rouge",
-            "correct_answer":"Đúng",
-            "incorrect_answers":["Sai"]
+            "question":"Chúc may mắn",
+            "correct_answer":"Bonne chance",
+            "incorrect_answers":["Moi aussi","D'accord","Bonjour"]
         },
         {
             "category":"Quiz",
             "type":"multiple",
             "difficulty":"medium",
-            "question":"Les élèves français ont l'école toute la journée du lundi au vendredi",
-            "correct_answer":"Sai",
-            "incorrect_answers":["Đúng"]
+            "question":"Pourquoi ___ ?",
+            "correct_answer":"Pas",
+            "incorrect_answers":["Je","Pas","Bonjour"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Je ne comprends pas",
+            "correct_answer":"Tôi không hiểu",
+            "incorrect_answers":["Tôi không biết","Cảm on bạn","Tôi thấy hối hận"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Je ne sais pas",
+            "correct_answer":"Tôi không biết",
+            "incorrect_answers":["Tôi không hiểu","Tôi thích bạn","Tôi rất lấy làm tiếc"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Tôi thích bạn",
+            "correct_answer":"Je t'aime",
+            "incorrect_answers":["Je ne sais pass","Je n'ai pas d'argent","Je suis désolé"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Quoi de ___ ?",
+            "correct_answer":"neuf",
+            "incorrect_answers":["et toi","rien","pas"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"___ plus lentement, s'il vous ___",
+            "correct_answer":"Parlez/plaît",
+            "incorrect_answers":["Je/vous","Comment/plaît","Plaît/vous"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Je ____ un peu français?",
+            "correct_answer":"Parle",
+            "incorrect_answers":["Avez","Merde","Merci"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"____ avez du Wi-Fi ?",
+            "correct_answer":"Vous",
+            "incorrect_answers":["Je","Pas","Bonjour"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"J'ai soif",
+            "correct_answer":"Tôi khát",
+            "incorrect_answers":["Tôi đói","Tôi mệt","Tôi thích"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Tuyệt vời",
+            "correct_answer":"C'est parfait !",
+            "incorrect_answers":["Moi aussi","D'accord","Bonjour"]
+        },
+        {
+            "category":"Quiz",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"T'es un génie",
+            "correct_answer":"Bạn là thiên tài",
+            "incorrect_answers":["Bạn là đứa tồi","Bạn rất xứng đáng","Bạn thật tệ"]
         }
     ]
 }
