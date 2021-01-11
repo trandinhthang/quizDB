@@ -5,7 +5,7 @@
             "type":"multiple",
             "difficulty":"medium",
             "question":"Salut",
-            "correct_answer":"Xin chào",
+            "correct_answer":"Xin chào ",
             "incorrect_answers":["Tạm biệt","Cảm ơn","Xin lỗi"]
         },
         {
